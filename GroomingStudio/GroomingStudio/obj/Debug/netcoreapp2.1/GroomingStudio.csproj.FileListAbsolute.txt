@@ -1,0 +1,11 @@
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\bin\Debug\netcoreapp2.1\GroomingStudio.deps.json
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\bin\Debug\netcoreapp2.1\GroomingStudio.runtimeconfig.json
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\bin\Debug\netcoreapp2.1\GroomingStudio.runtimeconfig.dev.json
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\bin\Debug\netcoreapp2.1\GroomingStudio.dll
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\bin\Debug\netcoreapp2.1\GroomingStudio.pdb
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.csprojAssemblyReference.cache
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.csproj.CoreCompileInputs.cache
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.AssemblyInfoInputs.cache
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.AssemblyInfo.cs
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.dll
+C:\папка\С# project\-grooming-studio\GroomingStudio\GroomingStudio\obj\Debug\netcoreapp2.1\GroomingStudio.pdb
